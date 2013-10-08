@@ -42,6 +42,7 @@ Example:
 /Common/bin/2.0
 /Common/bin/3.5
 /Common/bin/4.0
+/Common/bin/4.5
 ```
 
 ### C.C.
